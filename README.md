@@ -21,3 +21,9 @@
 |![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_3/Activity_3_20%25.PNG)|![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_3/Activity_3_40%25.PNG)|![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_3/Activity_3_70%25.PNG)|![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_3/Activity_3_95%25.PNG)|
 |20% duty cycle|40% duty cycle|70% duty cycle|95% duty cycle|
 
+## Activity 4
+
+|20% duty cycle|40% duty cycle|70% duty cycle|95% duty cycle|
+|:--:|:--:|:--:|:--:|
+|![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_4/Activity_4_1.PNG)|![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_4/Activity_4_2.PNG)|![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_4/Activity_4_3.PNG)|![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_4/Activity_4_4.PNG)|
+|temperature = 20°C|temperature = 25°C|temperature = 29°C|temperature = 33°C|
