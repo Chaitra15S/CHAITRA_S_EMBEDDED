@@ -12,4 +12,4 @@
 
 | When LED is ON, temperature sensor gets activated and analog values get converted into digital values by ADC of the microcontroller(ATMega328)|
 |:--:|
-|![image](Images/Activity2/Activity_2.png)|
+|![image](Images/Activity2/Activity_2.PNG)|
