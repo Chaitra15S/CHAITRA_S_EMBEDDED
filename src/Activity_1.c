@@ -1,7 +1,22 @@
+/**
+ * @file Activity1.c
+ * @author Chaitra S
+ * @brief // configuration of pins
+ * @version 0.1
+ * @date 2021-07-28
+ *
+ * @copyright Copyright (c) 2021
+ *
+ */
 #include <avr/io.h>
 #include <util/delay.h>
+#include "Activity3.h"
+#include "Activity4.h"
+#include "Activity2.h"
 
-int main()
+
+
+void Activity1()
 
 {
 
@@ -22,6 +37,9 @@ int main()
             // set LED
             PORTB |= (1 << PB0);
             _delay_ms(200);
+            Activity2();
+            Activity3();
+            Activity4();
         }
         else
         {
