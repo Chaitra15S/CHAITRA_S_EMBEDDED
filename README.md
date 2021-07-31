@@ -27,3 +27,5 @@
 |:--:|:--:|:--:|:--:|
 |![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_4/Activity_4_1.PNG)|![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_4/Activity_4_2.PNG)|![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_4/Activity_4_3.PNG)|![image](https://github.com/Chaitra15S/CHAITRA_S_EMBEDDED/blob/main/Images/Activity_4/Activity_4_4.PNG)|
 |temperature = 20°C|temperature = 25°C|temperature = 29°C|temperature = 33°C|
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f478fe20d9114f268d47b2f393bfbe7a)](https://www.codacy.com/gh/Chaitra15S/CHAITRA_S_EMBEDDED/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Chaitra15S/CHAITRA_S_EMBEDDED&amp;utm_campaign=Badge_Grade)
